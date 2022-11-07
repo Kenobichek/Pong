@@ -1,5 +1,7 @@
 # Pong
 
+!!! Run IDE as admin.
+
 Beginning of the game:
 To start the game, go to the folder with the game and open the pong.exe file, also in this folder are the libraries to run the application, 
 if suddenly the library you need is not found, you can find it on the site https://ru.dll-files.com/
