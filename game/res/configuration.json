@@ -1,0 +1,13 @@
+{
+  "windowHeight": 600,
+  "windowWidth": 800,
+  "numberUsers": 1,
+  "numberBots": 1,
+  "platformHeight": 100,
+  "platformWidth": 20,
+  "platformSpeed": 15,
+  "numberBalls": 1,
+  "ballSize": 20,
+  "ballSpeed": 6,
+  "textSize": 150
+}
